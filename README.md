@@ -1,4 +1,6 @@
-
+A Full Stack project of E-Commerce Website made using React,Firebase,NodeJs,Express Js,Javascript.
+This Website has a fully functioning login page where one can wishlist their specific items,add/remove their wishlisted items and get their total orders value.
+It further enables to checkout their items using real time payment.
 ![Screenshot (50)](https://user-images.githubusercontent.com/96865822/179935803-ad413b34-a559-436c-87e9-fb95044cdb5f.png)
 ![Screenshot (51)](https://user-images.githubusercontent.com/96865822/179935818-2dbc552c-a75e-43dd-81df-3327ca905de5.png)
 ![Screenshot (52)](https://user-images.githubusercontent.com/96865822/179935831-e5e68bc0-6b89-446b-bf18-699b22b361b9.png)
